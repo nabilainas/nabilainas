@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nabilainas
-- 👀 I’m interested in web development and development in general
-- 🌱 I’m currently learning next.js, react.js and python
+- 👀 I’m interested in development (python) in general and automatisation
+- 🌱 I’m currently learning KVM and serverless architectures 
