@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nabilainas
-- 👀 I’m interested in development in general and automatisation
-- 🌱 I’m currently learning KVM and serverless architectures 
+- 👀 I’m interested in development in general, automatisation and cloud
+- 🌱 I’m currently improving in python and Js
